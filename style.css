@@ -5,15 +5,31 @@
     font-size: 16px;
 }
 
+
+h1 {
+    font-size: 3.125rem;
+    color: #fff;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #fff;
+}
+
 .banner-wrap {
     background-image: url("/assets/netflix-background.jpg");
     height: 100vh;
  }
 
 .logo {
-    height: 100px;
+    height: 60px;
 }
 
-h1 {
-    font-size: 3.125rem;
+.banner-container {
+    width: 640px;
 }
