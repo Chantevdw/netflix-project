@@ -1,11 +1,8 @@
 * {
     box-sizing: border-box;
     margin: 0px;
-}
-
-.body {
-    font-family: OpenSans;
-    color: #fff;
+    font-family: OpenSans-Semibold,Helvetica,Arial,sans-serif;
+    font-size: 16px;
 }
 
 .banner-wrap {
@@ -18,5 +15,5 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 3.125rem;
 }
