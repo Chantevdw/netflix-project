@@ -1,4 +1,8 @@
-background-image {
+.background-image {
     background-image: url("/assets/netflix-background.jpg");
     height: 100vh;
  }
+
+.logo {
+    height: 100px;
+}
